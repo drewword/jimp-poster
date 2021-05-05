@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^15.0.1",
+    "jimp": "^0.16.1"
+  }
+}
